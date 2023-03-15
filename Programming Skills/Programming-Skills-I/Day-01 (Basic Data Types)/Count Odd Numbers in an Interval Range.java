@@ -2,7 +2,7 @@
 ------------------------
 QUESTION NO-1523
 LEVEL- EASY
--------------------------
+-----------------------  --
 Given two non-negative integers low and high. Return the count of odd numbers between low and high (inclusive).
 
 ---------------------------------------------------------------------------------------
